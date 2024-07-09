@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Maltego Technologies',
+    description: 'The official store for Kasm supported workspaces for Maltego Developers.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://github.com/rajacs50/kasm-registry/',
+    contactUrl: 'https://github.com/rajacs50/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
