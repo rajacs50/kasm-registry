@@ -2,7 +2,7 @@
     "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
     "docker_registry": "https://index.docker.io/v1/",
     "name": "kasmweb/vs-code:develop",
-    "vs-code.png": "https://github.com/rajacs50/kasm-registry/blob/1.0/workspaces/VSCode/vscode.png?raw=true",
+    "image_src": "https://github.com/rajacs50/kasm-registry/blob/1.0/workspaces/VSCode/vscode.png?raw=true",
     "categories": [
       "Development"
     ],
